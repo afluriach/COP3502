@@ -1,0 +1,904 @@
+Minute 1: 800 trays added to the dispenser. The topmost tray is 799.
+Minute 2, 750 people entered the line
+Minute 3, 10 people entered the line
+Minute 4: Employee 0 took tray 799 from dispenser.
+Minute 5: Employee 1 took tray 798 from dispenser.
+Minute 6: Employee 2 took tray 797 from dispenser.
+Minute 7: Employee 3 took tray 796 from dispenser.
+Minute 8: Employee 4 took tray 795 from dispenser.
+Minute 9: Employee 5 took tray 794 from dispenser.
+Minute 10: Employee 6 took tray 793 from dispenser.
+Minute 11: Employee 7 took tray 792 from dispenser.
+Minute 12: Employee 8 took tray 791 from dispenser.
+Minute 13: Employee 9 took tray 790 from dispenser.
+Minute 14: Employee 10 took tray 789 from dispenser.
+Minute 15: Employee 11 took tray 788 from dispenser.
+Minute 16: Employee 12 took tray 787 from dispenser.
+Minute 17: Employee 13 took tray 786 from dispenser.
+Minute 18: Employee 14 took tray 785 from dispenser.
+Minute 19: Employee 15 took tray 784 from dispenser.
+Minute 20: Employee 16 took tray 783 from dispenser.
+Minute 21: Employee 17 took tray 782 from dispenser.
+Minute 22: Employee 18 took tray 781 from dispenser.
+Minute 23: Employee 19 took tray 780 from dispenser.
+Minute 24: Employee 20 took tray 779 from dispenser.
+Minute 25: Employee 21 took tray 778 from dispenser.
+Minute 26: Employee 22 took tray 777 from dispenser.
+Minute 27: Employee 23 took tray 776 from dispenser.
+Minute 28: Employee 24 took tray 775 from dispenser.
+Minute 29: Employee 25 took tray 774 from dispenser.
+Minute 30: Employee 26 took tray 773 from dispenser.
+Minute 31: Employee 27 took tray 772 from dispenser.
+Minute 32: Employee 28 took tray 771 from dispenser.
+Minute 33: Employee 29 took tray 770 from dispenser.
+Minute 34: Employee 30 took tray 769 from dispenser.
+Minute 35: Employee 31 took tray 768 from dispenser.
+Minute 36: Employee 32 took tray 767 from dispenser.
+Minute 37: Employee 33 took tray 766 from dispenser.
+Minute 38: Employee 34 took tray 765 from dispenser.
+Minute 39: Employee 35 took tray 764 from dispenser.
+Minute 40: Employee 36 took tray 763 from dispenser.
+Minute 41: Employee 37 took tray 762 from dispenser.
+Minute 42: Employee 38 took tray 761 from dispenser.
+Minute 43: Employee 39 took tray 760 from dispenser.
+Minute 44: Employee 40 took tray 759 from dispenser.
+Minute 45: Employee 41 took tray 758 from dispenser.
+Minute 46: Employee 42 took tray 757 from dispenser.
+Minute 47: Employee 43 took tray 756 from dispenser.
+Minute 48: Employee 44 took tray 755 from dispenser.
+Minute 49: Employee 45 took tray 754 from dispenser.
+Minute 50: Employee 46 took tray 753 from dispenser.
+Minute 51: Employee 47 took tray 752 from dispenser.
+Minute 52: Employee 48 took tray 751 from dispenser.
+Minute 53: Employee 49 took tray 750 from dispenser.
+Minute 54: Employee 50 took tray 749 from dispenser.
+Minute 55: Employee 51 took tray 748 from dispenser.
+Minute 56: Employee 52 took tray 747 from dispenser.
+Minute 57: Employee 53 took tray 746 from dispenser.
+Minute 58: Employee 54 took tray 745 from dispenser.
+Minute 59: Employee 55 took tray 744 from dispenser.
+Minute 60: Employee 56 took tray 743 from dispenser.
+Minute 61: Employee 57 took tray 742 from dispenser.
+Minute 62: Employee 58 took tray 741 from dispenser.
+Minute 63: Employee 59 took tray 740 from dispenser.
+Minute 64: Employee 60 took tray 739 from dispenser.
+Minute 65: Employee 61 took tray 738 from dispenser.
+Minute 66: Employee 62 took tray 737 from dispenser.
+Minute 67: Employee 63 took tray 736 from dispenser.
+Minute 68: Employee 64 took tray 735 from dispenser.
+Minute 69: Employee 65 took tray 734 from dispenser.
+Minute 70: Employee 66 took tray 733 from dispenser.
+Minute 71: Employee 67 took tray 732 from dispenser.
+Minute 72: Employee 68 took tray 731 from dispenser.
+Minute 73: Employee 69 took tray 730 from dispenser.
+Minute 74: Employee 70 took tray 729 from dispenser.
+Minute 75: Employee 71 took tray 728 from dispenser.
+Minute 76: Employee 72 took tray 727 from dispenser.
+Minute 77: Employee 73 took tray 726 from dispenser.
+Minute 78: Employee 74 took tray 725 from dispenser.
+Minute 79: Employee 75 took tray 724 from dispenser.
+Minute 80: Employee 76 took tray 723 from dispenser.
+Minute 81: Employee 77 took tray 722 from dispenser.
+Minute 82: Employee 78 took tray 721 from dispenser.
+Minute 83: Employee 79 took tray 720 from dispenser.
+Minute 84: Employee 80 took tray 719 from dispenser.
+Minute 85: Employee 81 took tray 718 from dispenser.
+Minute 86: Employee 82 took tray 717 from dispenser.
+Minute 87: Employee 83 took tray 716 from dispenser.
+Minute 88: Employee 84 took tray 715 from dispenser.
+Minute 89: Employee 85 took tray 714 from dispenser.
+Minute 90: Employee 86 took tray 713 from dispenser.
+Minute 91: Employee 87 took tray 712 from dispenser.
+Minute 92: Employee 88 took tray 711 from dispenser.
+Minute 93: Employee 89 took tray 710 from dispenser.
+Minute 94: Employee 90 took tray 709 from dispenser.
+Minute 95: Employee 91 took tray 708 from dispenser.
+Minute 96: Employee 92 took tray 707 from dispenser.
+Minute 97: Employee 93 took tray 706 from dispenser.
+Minute 98: Employee 94 took tray 705 from dispenser.
+Minute 99: Employee 95 took tray 704 from dispenser.
+Minute 100: Employee 96 took tray 703 from dispenser.
+Minute 101: Employee 97 took tray 702 from dispenser.
+Minute 102: Employee 98 took tray 701 from dispenser.
+Minute 103: Employee 99 took tray 700 from dispenser.
+Minute 104: Employee 100 took tray 699 from dispenser.
+Minute 105: Employee 101 took tray 698 from dispenser.
+Minute 106: Employee 102 took tray 697 from dispenser.
+Minute 107: Employee 103 took tray 696 from dispenser.
+Minute 108: Employee 104 took tray 695 from dispenser.
+Minute 109: Employee 105 took tray 694 from dispenser.
+Minute 110: Employee 106 took tray 693 from dispenser.
+Minute 111: Employee 107 took tray 692 from dispenser.
+Minute 112: Employee 108 took tray 691 from dispenser.
+Minute 113: Employee 109 took tray 690 from dispenser.
+Minute 114: Employee 110 took tray 689 from dispenser.
+Minute 115: Employee 111 took tray 688 from dispenser.
+Minute 116: Employee 112 took tray 687 from dispenser.
+Minute 117: Employee 113 took tray 686 from dispenser.
+Minute 118: Employee 114 took tray 685 from dispenser.
+Minute 119: Employee 115 took tray 684 from dispenser.
+Minute 120: Employee 116 took tray 683 from dispenser.
+Minute 121: Employee 117 took tray 682 from dispenser.
+Minute 122: Employee 118 took tray 681 from dispenser.
+Minute 123: Employee 119 took tray 680 from dispenser.
+Minute 124: Employee 120 took tray 679 from dispenser.
+Minute 125: Employee 121 took tray 678 from dispenser.
+Minute 126: Employee 122 took tray 677 from dispenser.
+Minute 127: Employee 123 took tray 676 from dispenser.
+Minute 128: Employee 124 took tray 675 from dispenser.
+Minute 129: Employee 125 took tray 674 from dispenser.
+Minute 130: Employee 126 took tray 673 from dispenser.
+Minute 131: Employee 127 took tray 672 from dispenser.
+Minute 132: Employee 128 took tray 671 from dispenser.
+Minute 133: Employee 129 took tray 670 from dispenser.
+Minute 134: Employee 130 took tray 669 from dispenser.
+Minute 135: Employee 131 took tray 668 from dispenser.
+Minute 136: Employee 132 took tray 667 from dispenser.
+Minute 137: Employee 133 took tray 666 from dispenser.
+Minute 138: Employee 134 took tray 665 from dispenser.
+Minute 139: Employee 135 took tray 664 from dispenser.
+Minute 140: Employee 136 took tray 663 from dispenser.
+Minute 141: Employee 137 took tray 662 from dispenser.
+Minute 142: Employee 138 took tray 661 from dispenser.
+Minute 143: Employee 139 took tray 660 from dispenser.
+Minute 144: Employee 140 took tray 659 from dispenser.
+Minute 145: Employee 141 took tray 658 from dispenser.
+Minute 146: Employee 142 took tray 657 from dispenser.
+Minute 147: Employee 143 took tray 656 from dispenser.
+Minute 148: Employee 144 took tray 655 from dispenser.
+Minute 149: Employee 145 took tray 654 from dispenser.
+Minute 150: Employee 146 took tray 653 from dispenser.
+Minute 151: Employee 147 took tray 652 from dispenser.
+Minute 152: Employee 148 took tray 651 from dispenser.
+Minute 153: Employee 149 took tray 650 from dispenser.
+Minute 154: Employee 150 took tray 649 from dispenser.
+Minute 155: Employee 151 took tray 648 from dispenser.
+Minute 156: Employee 152 took tray 647 from dispenser.
+Minute 157: Employee 153 took tray 646 from dispenser.
+Minute 158: Employee 154 took tray 645 from dispenser.
+Minute 159: Employee 155 took tray 644 from dispenser.
+Minute 160: Employee 156 took tray 643 from dispenser.
+Minute 161: Employee 157 took tray 642 from dispenser.
+Minute 162: Employee 158 took tray 641 from dispenser.
+Minute 163: Employee 159 took tray 640 from dispenser.
+Minute 164: Employee 160 took tray 639 from dispenser.
+Minute 165: Employee 161 took tray 638 from dispenser.
+Minute 166: Employee 162 took tray 637 from dispenser.
+Minute 167: Employee 163 took tray 636 from dispenser.
+Minute 168: Employee 164 took tray 635 from dispenser.
+Minute 169: Employee 165 took tray 634 from dispenser.
+Minute 170: Employee 166 took tray 633 from dispenser.
+Minute 171: Employee 167 took tray 632 from dispenser.
+Minute 172: Employee 168 took tray 631 from dispenser.
+Minute 173: Employee 169 took tray 630 from dispenser.
+Minute 174: Employee 170 took tray 629 from dispenser.
+Minute 175: Employee 171 took tray 628 from dispenser.
+Minute 176: Employee 172 took tray 627 from dispenser.
+Minute 177: Employee 173 took tray 626 from dispenser.
+Minute 178: Employee 174 took tray 625 from dispenser.
+Minute 179: Employee 175 took tray 624 from dispenser.
+Minute 180: Employee 176 took tray 623 from dispenser.
+Minute 181: Employee 177 took tray 622 from dispenser.
+Minute 182: Employee 178 took tray 621 from dispenser.
+Minute 183: Employee 179 took tray 620 from dispenser.
+Minute 184: Employee 180 took tray 619 from dispenser.
+Minute 185: Employee 181 took tray 618 from dispenser.
+Minute 186: Employee 182 took tray 617 from dispenser.
+Minute 187: Employee 183 took tray 616 from dispenser.
+Minute 188: Employee 184 took tray 615 from dispenser.
+Minute 189: Employee 185 took tray 614 from dispenser.
+Minute 190: Employee 186 took tray 613 from dispenser.
+Minute 191: Employee 187 took tray 612 from dispenser.
+Minute 192: Employee 188 took tray 611 from dispenser.
+Minute 193: Employee 189 took tray 610 from dispenser.
+Minute 194: Employee 190 took tray 609 from dispenser.
+Minute 195: Employee 191 took tray 608 from dispenser.
+Minute 196: Employee 192 took tray 607 from dispenser.
+Minute 197: Employee 193 took tray 606 from dispenser.
+Minute 198: Employee 194 took tray 605 from dispenser.
+Minute 199: Employee 195 took tray 604 from dispenser.
+Minute 200: Employee 196 took tray 603 from dispenser.
+Minute 201: Employee 197 took tray 602 from dispenser.
+Minute 202: Employee 198 took tray 601 from dispenser.
+Minute 203: Employee 199 took tray 600 from dispenser.
+Minute 204: Employee 200 took tray 599 from dispenser.
+Minute 205: Employee 201 took tray 598 from dispenser.
+Minute 206: Employee 202 took tray 597 from dispenser.
+Minute 207: Employee 203 took tray 596 from dispenser.
+Minute 208: Employee 204 took tray 595 from dispenser.
+Minute 209: Employee 205 took tray 594 from dispenser.
+Minute 210: Employee 206 took tray 593 from dispenser.
+Minute 211: Employee 207 took tray 592 from dispenser.
+Minute 212: Employee 208 took tray 591 from dispenser.
+Minute 213: Employee 209 took tray 590 from dispenser.
+Minute 214: Employee 210 took tray 589 from dispenser.
+Minute 215: Employee 211 took tray 588 from dispenser.
+Minute 216: Employee 212 took tray 587 from dispenser.
+Minute 217: Employee 213 took tray 586 from dispenser.
+Minute 218: Employee 214 took tray 585 from dispenser.
+Minute 219: Employee 215 took tray 584 from dispenser.
+Minute 220: Employee 216 took tray 583 from dispenser.
+Minute 221: Employee 217 took tray 582 from dispenser.
+Minute 222: Employee 218 took tray 581 from dispenser.
+Minute 223: Employee 219 took tray 580 from dispenser.
+Minute 224: Employee 220 took tray 579 from dispenser.
+Minute 225: Employee 221 took tray 578 from dispenser.
+Minute 226: Employee 222 took tray 577 from dispenser.
+Minute 227: Employee 223 took tray 576 from dispenser.
+Minute 228: Employee 224 took tray 575 from dispenser.
+Minute 229: Employee 225 took tray 574 from dispenser.
+Minute 230: Employee 226 took tray 573 from dispenser.
+Minute 231: Employee 227 took tray 572 from dispenser.
+Minute 232: Employee 228 took tray 571 from dispenser.
+Minute 233: Employee 229 took tray 570 from dispenser.
+Minute 234: Employee 230 took tray 569 from dispenser.
+Minute 235: Employee 231 took tray 568 from dispenser.
+Minute 236: Employee 232 took tray 567 from dispenser.
+Minute 237: Employee 233 took tray 566 from dispenser.
+Minute 238: Employee 234 took tray 565 from dispenser.
+Minute 239: Employee 235 took tray 564 from dispenser.
+Minute 240: Employee 236 took tray 563 from dispenser.
+Minute 241: Employee 237 took tray 562 from dispenser.
+Minute 242: Employee 238 took tray 561 from dispenser.
+Minute 243: Employee 239 took tray 560 from dispenser.
+Minute 244: Employee 240 took tray 559 from dispenser.
+Minute 245: Employee 241 took tray 558 from dispenser.
+Minute 246: Employee 242 took tray 557 from dispenser.
+Minute 247: Employee 243 took tray 556 from dispenser.
+Minute 248: Employee 244 took tray 555 from dispenser.
+Minute 249: Employee 245 took tray 554 from dispenser.
+Minute 250: Employee 246 took tray 553 from dispenser.
+Minute 251: Employee 247 took tray 552 from dispenser.
+Minute 252: Employee 248 took tray 551 from dispenser.
+Minute 253: Employee 249 took tray 550 from dispenser.
+Minute 254: Employee 250 took tray 549 from dispenser.
+Minute 255: Employee 251 took tray 548 from dispenser.
+Minute 256: Employee 252 took tray 547 from dispenser.
+Minute 257: Employee 253 took tray 546 from dispenser.
+Minute 258: Employee 254 took tray 545 from dispenser.
+Minute 259: Employee 255 took tray 544 from dispenser.
+Minute 260: Employee 256 took tray 543 from dispenser.
+Minute 261: Employee 257 took tray 542 from dispenser.
+Minute 262: Employee 258 took tray 541 from dispenser.
+Minute 263: Employee 259 took tray 540 from dispenser.
+Minute 264: Employee 260 took tray 539 from dispenser.
+Minute 265: Employee 261 took tray 538 from dispenser.
+Minute 266: Employee 262 took tray 537 from dispenser.
+Minute 267: Employee 263 took tray 536 from dispenser.
+Minute 268: Employee 264 took tray 535 from dispenser.
+Minute 269: Employee 265 took tray 534 from dispenser.
+Minute 270: Employee 266 took tray 533 from dispenser.
+Minute 271: Employee 267 took tray 532 from dispenser.
+Minute 272: Employee 268 took tray 531 from dispenser.
+Minute 273: Employee 269 took tray 530 from dispenser.
+Minute 274: Employee 270 took tray 529 from dispenser.
+Minute 275: Employee 271 took tray 528 from dispenser.
+Minute 276: Employee 272 took tray 527 from dispenser.
+Minute 277: Employee 273 took tray 526 from dispenser.
+Minute 278: Employee 274 took tray 525 from dispenser.
+Minute 279: Employee 275 took tray 524 from dispenser.
+Minute 280: Employee 276 took tray 523 from dispenser.
+Minute 281: Employee 277 took tray 522 from dispenser.
+Minute 282: Employee 278 took tray 521 from dispenser.
+Minute 283: Employee 279 took tray 520 from dispenser.
+Minute 284: Employee 280 took tray 519 from dispenser.
+Minute 285: Employee 281 took tray 518 from dispenser.
+Minute 286: Employee 282 took tray 517 from dispenser.
+Minute 287: Employee 283 took tray 516 from dispenser.
+Minute 288: Employee 284 took tray 515 from dispenser.
+Minute 289: Employee 285 took tray 514 from dispenser.
+Minute 290: Employee 286 took tray 513 from dispenser.
+Minute 291: Employee 287 took tray 512 from dispenser.
+Minute 292: Employee 288 took tray 511 from dispenser.
+Minute 293: Employee 289 took tray 510 from dispenser.
+Minute 294: Employee 290 took tray 509 from dispenser.
+Minute 295: Employee 291 took tray 508 from dispenser.
+Minute 296: Employee 292 took tray 507 from dispenser.
+Minute 297: Employee 293 took tray 506 from dispenser.
+Minute 298: Employee 294 took tray 505 from dispenser.
+Minute 299: Employee 295 took tray 504 from dispenser.
+Minute 300: Employee 296 took tray 503 from dispenser.
+Minute 301: Employee 297 took tray 502 from dispenser.
+Minute 302: Employee 298 took tray 501 from dispenser.
+Minute 303: Employee 299 took tray 500 from dispenser.
+Minute 304: Employee 300 took tray 499 from dispenser.
+Minute 305: Employee 301 took tray 498 from dispenser.
+Minute 306: Employee 302 took tray 497 from dispenser.
+Minute 307: Employee 303 took tray 496 from dispenser.
+Minute 308: Employee 304 took tray 495 from dispenser.
+Minute 309: Employee 305 took tray 494 from dispenser.
+Minute 310: Employee 306 took tray 493 from dispenser.
+Minute 311: Employee 307 took tray 492 from dispenser.
+Minute 312: Employee 308 took tray 491 from dispenser.
+Minute 313: Employee 309 took tray 490 from dispenser.
+Minute 314: Employee 310 took tray 489 from dispenser.
+Minute 315: Employee 311 took tray 488 from dispenser.
+Minute 316: Employee 312 took tray 487 from dispenser.
+Minute 317: Employee 313 took tray 486 from dispenser.
+Minute 318: Employee 314 took tray 485 from dispenser.
+Minute 319: Employee 315 took tray 484 from dispenser.
+Minute 320: Employee 316 took tray 483 from dispenser.
+Minute 321: Employee 317 took tray 482 from dispenser.
+Minute 322: Employee 318 took tray 481 from dispenser.
+Minute 323: Employee 319 took tray 480 from dispenser.
+Minute 324: Employee 320 took tray 479 from dispenser.
+Minute 325: Employee 321 took tray 478 from dispenser.
+Minute 326: Employee 322 took tray 477 from dispenser.
+Minute 327: Employee 323 took tray 476 from dispenser.
+Minute 328: Employee 324 took tray 475 from dispenser.
+Minute 329: Employee 325 took tray 474 from dispenser.
+Minute 330: Employee 326 took tray 473 from dispenser.
+Minute 331: Employee 327 took tray 472 from dispenser.
+Minute 332: Employee 328 took tray 471 from dispenser.
+Minute 333: Employee 329 took tray 470 from dispenser.
+Minute 334: Employee 330 took tray 469 from dispenser.
+Minute 335: Employee 331 took tray 468 from dispenser.
+Minute 336: Employee 332 took tray 467 from dispenser.
+Minute 337: Employee 333 took tray 466 from dispenser.
+Minute 338: Employee 334 took tray 465 from dispenser.
+Minute 339: Employee 335 took tray 464 from dispenser.
+Minute 340: Employee 336 took tray 463 from dispenser.
+Minute 341: Employee 337 took tray 462 from dispenser.
+Minute 342: Employee 338 took tray 461 from dispenser.
+Minute 343: Employee 339 took tray 460 from dispenser.
+Minute 344: Employee 340 took tray 459 from dispenser.
+Minute 345: Employee 341 took tray 458 from dispenser.
+Minute 346: Employee 342 took tray 457 from dispenser.
+Minute 347: Employee 343 took tray 456 from dispenser.
+Minute 348: Employee 344 took tray 455 from dispenser.
+Minute 349: Employee 345 took tray 454 from dispenser.
+Minute 350: Employee 346 took tray 453 from dispenser.
+Minute 351: Employee 347 took tray 452 from dispenser.
+Minute 352: Employee 348 took tray 451 from dispenser.
+Minute 353: Employee 349 took tray 450 from dispenser.
+Minute 354: Employee 350 took tray 449 from dispenser.
+Minute 355: Employee 351 took tray 448 from dispenser.
+Minute 356: Employee 352 took tray 447 from dispenser.
+Minute 357: Employee 353 took tray 446 from dispenser.
+Minute 358: Employee 354 took tray 445 from dispenser.
+Minute 359: Employee 355 took tray 444 from dispenser.
+Minute 360: Employee 356 took tray 443 from dispenser.
+Minute 361: Employee 357 took tray 442 from dispenser.
+Minute 362: Employee 358 took tray 441 from dispenser.
+Minute 363: Employee 359 took tray 440 from dispenser.
+Minute 364: Employee 360 took tray 439 from dispenser.
+Minute 365: Employee 361 took tray 438 from dispenser.
+Minute 366: Employee 362 took tray 437 from dispenser.
+Minute 367: Employee 363 took tray 436 from dispenser.
+Minute 368: Employee 364 took tray 435 from dispenser.
+Minute 369: Employee 365 took tray 434 from dispenser.
+Minute 370: Employee 366 took tray 433 from dispenser.
+Minute 371: Employee 367 took tray 432 from dispenser.
+Minute 372: Employee 368 took tray 431 from dispenser.
+Minute 373: Employee 369 took tray 430 from dispenser.
+Minute 374: Employee 370 took tray 429 from dispenser.
+Minute 375: Employee 371 took tray 428 from dispenser.
+Minute 376: Employee 372 took tray 427 from dispenser.
+Minute 377: Employee 373 took tray 426 from dispenser.
+Minute 378: Employee 374 took tray 425 from dispenser.
+Minute 379: Employee 375 took tray 424 from dispenser.
+Minute 380: Employee 376 took tray 423 from dispenser.
+Minute 381: Employee 377 took tray 422 from dispenser.
+Minute 382: Employee 378 took tray 421 from dispenser.
+Minute 383: Employee 379 took tray 420 from dispenser.
+Minute 384: Employee 380 took tray 419 from dispenser.
+Minute 385: Employee 381 took tray 418 from dispenser.
+Minute 386: Employee 382 took tray 417 from dispenser.
+Minute 387: Employee 383 took tray 416 from dispenser.
+Minute 388: Employee 384 took tray 415 from dispenser.
+Minute 389: Employee 385 took tray 414 from dispenser.
+Minute 390: Employee 386 took tray 413 from dispenser.
+Minute 391: Employee 387 took tray 412 from dispenser.
+Minute 392: Employee 388 took tray 411 from dispenser.
+Minute 393: Employee 389 took tray 410 from dispenser.
+Minute 394: Employee 390 took tray 409 from dispenser.
+Minute 395: Employee 391 took tray 408 from dispenser.
+Minute 396: Employee 392 took tray 407 from dispenser.
+Minute 397: Employee 393 took tray 406 from dispenser.
+Minute 398: Employee 394 took tray 405 from dispenser.
+Minute 399: Employee 395 took tray 404 from dispenser.
+Minute 400: Employee 396 took tray 403 from dispenser.
+Minute 401: Employee 397 took tray 402 from dispenser.
+Minute 402: Employee 398 took tray 401 from dispenser.
+Minute 403: Employee 399 took tray 400 from dispenser.
+Minute 404: Employee 400 took tray 399 from dispenser.
+Minute 405: Employee 401 took tray 398 from dispenser.
+Minute 406: Employee 402 took tray 397 from dispenser.
+Minute 407: Employee 403 took tray 396 from dispenser.
+Minute 408: Employee 404 took tray 395 from dispenser.
+Minute 409: Employee 405 took tray 394 from dispenser.
+Minute 410: Employee 406 took tray 393 from dispenser.
+Minute 411: Employee 407 took tray 392 from dispenser.
+Minute 412: Employee 408 took tray 391 from dispenser.
+Minute 413: Employee 409 took tray 390 from dispenser.
+Minute 414: Employee 410 took tray 389 from dispenser.
+Minute 415: Employee 411 took tray 388 from dispenser.
+Minute 416: Employee 412 took tray 387 from dispenser.
+Minute 417: Employee 413 took tray 386 from dispenser.
+Minute 418: Employee 414 took tray 385 from dispenser.
+Minute 419: Employee 415 took tray 384 from dispenser.
+Minute 420: Employee 416 took tray 383 from dispenser.
+Minute 421: Employee 417 took tray 382 from dispenser.
+Minute 422: Employee 418 took tray 381 from dispenser.
+Minute 423: Employee 419 took tray 380 from dispenser.
+Minute 424: Employee 420 took tray 379 from dispenser.
+Minute 425: Employee 421 took tray 378 from dispenser.
+Minute 426: Employee 422 took tray 377 from dispenser.
+Minute 427: Employee 423 took tray 376 from dispenser.
+Minute 428: Employee 424 took tray 375 from dispenser.
+Minute 429: Employee 425 took tray 374 from dispenser.
+Minute 430: Employee 426 took tray 373 from dispenser.
+Minute 431: Employee 427 took tray 372 from dispenser.
+Minute 432: Employee 428 took tray 371 from dispenser.
+Minute 433: Employee 429 took tray 370 from dispenser.
+Minute 434: Employee 430 took tray 369 from dispenser.
+Minute 435: Employee 431 took tray 368 from dispenser.
+Minute 436: Employee 432 took tray 367 from dispenser.
+Minute 437: Employee 433 took tray 366 from dispenser.
+Minute 438: Employee 434 took tray 365 from dispenser.
+Minute 439: Employee 435 took tray 364 from dispenser.
+Minute 440: Employee 436 took tray 363 from dispenser.
+Minute 441: Employee 437 took tray 362 from dispenser.
+Minute 442: Employee 438 took tray 361 from dispenser.
+Minute 443: Employee 439 took tray 360 from dispenser.
+Minute 444: Employee 440 took tray 359 from dispenser.
+Minute 445: Employee 441 took tray 358 from dispenser.
+Minute 446: Employee 442 took tray 357 from dispenser.
+Minute 447: Employee 443 took tray 356 from dispenser.
+Minute 448: Employee 444 took tray 355 from dispenser.
+Minute 449: Employee 445 took tray 354 from dispenser.
+Minute 450: Employee 446 took tray 353 from dispenser.
+Minute 451: Employee 447 took tray 352 from dispenser.
+Minute 452: Employee 448 took tray 351 from dispenser.
+Minute 453: Employee 449 took tray 350 from dispenser.
+Minute 454: Employee 450 took tray 349 from dispenser.
+Minute 455: Employee 451 took tray 348 from dispenser.
+Minute 456: Employee 452 took tray 347 from dispenser.
+Minute 457: Employee 453 took tray 346 from dispenser.
+Minute 458: Employee 454 took tray 345 from dispenser.
+Minute 459: Employee 455 took tray 344 from dispenser.
+Minute 460: Employee 456 took tray 343 from dispenser.
+Minute 461: Employee 457 took tray 342 from dispenser.
+Minute 462: Employee 458 took tray 341 from dispenser.
+Minute 463: Employee 459 took tray 340 from dispenser.
+Minute 464: Employee 460 took tray 339 from dispenser.
+Minute 465: Employee 461 took tray 338 from dispenser.
+Minute 466: Employee 462 took tray 337 from dispenser.
+Minute 467: Employee 463 took tray 336 from dispenser.
+Minute 468: Employee 464 took tray 335 from dispenser.
+Minute 469: Employee 465 took tray 334 from dispenser.
+Minute 470: Employee 466 took tray 333 from dispenser.
+Minute 471: Employee 467 took tray 332 from dispenser.
+Minute 472: Employee 468 took tray 331 from dispenser.
+Minute 473: Employee 469 took tray 330 from dispenser.
+Minute 474: Employee 470 took tray 329 from dispenser.
+Minute 475: Employee 471 took tray 328 from dispenser.
+Minute 476: Employee 472 took tray 327 from dispenser.
+Minute 477: Employee 473 took tray 326 from dispenser.
+Minute 478: Employee 474 took tray 325 from dispenser.
+Minute 479: Employee 475 took tray 324 from dispenser.
+Minute 480: Employee 476 took tray 323 from dispenser.
+Minute 481: Employee 477 took tray 322 from dispenser.
+Minute 482: Employee 478 took tray 321 from dispenser.
+Minute 483: Employee 479 took tray 320 from dispenser.
+Minute 484: Employee 480 took tray 319 from dispenser.
+Minute 485: Employee 481 took tray 318 from dispenser.
+Minute 486: Employee 482 took tray 317 from dispenser.
+Minute 487: Employee 483 took tray 316 from dispenser.
+Minute 488: Employee 484 took tray 315 from dispenser.
+Minute 489: Employee 485 took tray 314 from dispenser.
+Minute 490: Employee 486 took tray 313 from dispenser.
+Minute 491: Employee 487 took tray 312 from dispenser.
+Minute 492: Employee 488 took tray 311 from dispenser.
+Minute 493: Employee 489 took tray 310 from dispenser.
+Minute 494: Employee 490 took tray 309 from dispenser.
+Minute 495: Employee 491 took tray 308 from dispenser.
+Minute 496: Employee 492 took tray 307 from dispenser.
+Minute 497: Employee 493 took tray 306 from dispenser.
+Minute 498: Employee 494 took tray 305 from dispenser.
+Minute 499: Employee 495 took tray 304 from dispenser.
+Minute 500: Employee 496 took tray 303 from dispenser.
+Minute 501: Employee 497 took tray 302 from dispenser.
+Minute 502: Employee 498 took tray 301 from dispenser.
+Minute 503: Employee 499 took tray 300 from dispenser.
+Minute 504: Employee 500 took tray 299 from dispenser.
+Minute 505: Employee 501 took tray 298 from dispenser.
+Minute 506: Employee 502 took tray 297 from dispenser.
+Minute 507: Employee 503 took tray 296 from dispenser.
+Minute 508: Employee 504 took tray 295 from dispenser.
+Minute 509: Employee 505 took tray 294 from dispenser.
+Minute 510: Employee 506 took tray 293 from dispenser.
+Minute 511: Employee 507 took tray 292 from dispenser.
+Minute 512: Employee 508 took tray 291 from dispenser.
+Minute 513: Employee 509 took tray 290 from dispenser.
+Minute 514: Employee 510 took tray 289 from dispenser.
+Minute 515: Employee 511 took tray 288 from dispenser.
+Minute 516: Employee 512 took tray 287 from dispenser.
+Minute 517: Employee 513 took tray 286 from dispenser.
+Minute 518: Employee 514 took tray 285 from dispenser.
+Minute 519: Employee 515 took tray 284 from dispenser.
+Minute 520: Employee 516 took tray 283 from dispenser.
+Minute 521: Employee 517 took tray 282 from dispenser.
+Minute 522: Employee 518 took tray 281 from dispenser.
+Minute 523: Employee 519 took tray 280 from dispenser.
+Minute 524: Employee 520 took tray 279 from dispenser.
+Minute 525: Employee 521 took tray 278 from dispenser.
+Minute 526: Employee 522 took tray 277 from dispenser.
+Minute 527: Employee 523 took tray 276 from dispenser.
+Minute 528: Employee 524 took tray 275 from dispenser.
+Minute 529: Employee 525 took tray 274 from dispenser.
+Minute 530: Employee 526 took tray 273 from dispenser.
+Minute 531: Employee 527 took tray 272 from dispenser.
+Minute 532: Employee 528 took tray 271 from dispenser.
+Minute 533: Employee 529 took tray 270 from dispenser.
+Minute 534: Employee 530 took tray 269 from dispenser.
+Minute 535: Employee 531 took tray 268 from dispenser.
+Minute 536: Employee 532 took tray 267 from dispenser.
+Minute 537: Employee 533 took tray 266 from dispenser.
+Minute 538: Employee 534 took tray 265 from dispenser.
+Minute 539: Employee 535 took tray 264 from dispenser.
+Minute 540: Employee 536 took tray 263 from dispenser.
+Minute 541: Employee 537 took tray 262 from dispenser.
+Minute 542: Employee 538 took tray 261 from dispenser.
+Minute 543: Employee 539 took tray 260 from dispenser.
+Minute 544: Employee 540 took tray 259 from dispenser.
+Minute 545: Employee 541 took tray 258 from dispenser.
+Minute 546: Employee 542 took tray 257 from dispenser.
+Minute 547: Employee 543 took tray 256 from dispenser.
+Minute 548: Employee 544 took tray 255 from dispenser.
+Minute 549: Employee 545 took tray 254 from dispenser.
+Minute 550: Employee 546 took tray 253 from dispenser.
+Minute 551: Employee 547 took tray 252 from dispenser.
+Minute 552: Employee 548 took tray 251 from dispenser.
+Minute 553: Employee 549 took tray 250 from dispenser.
+Minute 554: Employee 550 took tray 249 from dispenser.
+Minute 555: Employee 551 took tray 248 from dispenser.
+Minute 556: Employee 552 took tray 247 from dispenser.
+Minute 557: Employee 553 took tray 246 from dispenser.
+Minute 558: Employee 554 took tray 245 from dispenser.
+Minute 559: Employee 555 took tray 244 from dispenser.
+Minute 560: Employee 556 took tray 243 from dispenser.
+Minute 561: Employee 557 took tray 242 from dispenser.
+Minute 562: Employee 558 took tray 241 from dispenser.
+Minute 563: Employee 559 took tray 240 from dispenser.
+Minute 564: Employee 560 took tray 239 from dispenser.
+Minute 565: Employee 561 took tray 238 from dispenser.
+Minute 566: Employee 562 took tray 237 from dispenser.
+Minute 567: Employee 563 took tray 236 from dispenser.
+Minute 568: Employee 564 took tray 235 from dispenser.
+Minute 569: Employee 565 took tray 234 from dispenser.
+Minute 570: Employee 566 took tray 233 from dispenser.
+Minute 571: Employee 567 took tray 232 from dispenser.
+Minute 572: Employee 568 took tray 231 from dispenser.
+Minute 573: Employee 569 took tray 230 from dispenser.
+Minute 574: Employee 570 took tray 229 from dispenser.
+Minute 575: Employee 571 took tray 228 from dispenser.
+Minute 576: Employee 572 took tray 227 from dispenser.
+Minute 577: Employee 573 took tray 226 from dispenser.
+Minute 578: Employee 574 took tray 225 from dispenser.
+Minute 579: Employee 575 took tray 224 from dispenser.
+Minute 580: Employee 576 took tray 223 from dispenser.
+Minute 581: Employee 577 took tray 222 from dispenser.
+Minute 582: Employee 578 took tray 221 from dispenser.
+Minute 583: Employee 579 took tray 220 from dispenser.
+Minute 584: Employee 580 took tray 219 from dispenser.
+Minute 585: Employee 581 took tray 218 from dispenser.
+Minute 586: Employee 582 took tray 217 from dispenser.
+Minute 587: Employee 583 took tray 216 from dispenser.
+Minute 588: Employee 584 took tray 215 from dispenser.
+Minute 589: Employee 585 took tray 214 from dispenser.
+Minute 590: Employee 586 took tray 213 from dispenser.
+Minute 591: Employee 587 took tray 212 from dispenser.
+Minute 592: Employee 588 took tray 211 from dispenser.
+Minute 593: Employee 589 took tray 210 from dispenser.
+Minute 594: Employee 590 took tray 209 from dispenser.
+Minute 595: Employee 591 took tray 208 from dispenser.
+Minute 596: Employee 592 took tray 207 from dispenser.
+Minute 597: Employee 593 took tray 206 from dispenser.
+Minute 598: Employee 594 took tray 205 from dispenser.
+Minute 599: Employee 595 took tray 204 from dispenser.
+Minute 600: Employee 596 took tray 203 from dispenser.
+Minute 601: Employee 597 took tray 202 from dispenser.
+Minute 602: Employee 598 took tray 201 from dispenser.
+Minute 603: Employee 599 took tray 200 from dispenser.
+Minute 604: Employee 600 took tray 199 from dispenser.
+Minute 605: Employee 601 took tray 198 from dispenser.
+Minute 606: Employee 602 took tray 197 from dispenser.
+Minute 607: Employee 603 took tray 196 from dispenser.
+Minute 608: Employee 604 took tray 195 from dispenser.
+Minute 609: Employee 605 took tray 194 from dispenser.
+Minute 610: Employee 606 took tray 193 from dispenser.
+Minute 611: Employee 607 took tray 192 from dispenser.
+Minute 612: Employee 608 took tray 191 from dispenser.
+Minute 613: Employee 609 took tray 190 from dispenser.
+Minute 614: Employee 610 took tray 189 from dispenser.
+Minute 615: Employee 611 took tray 188 from dispenser.
+Minute 616: Employee 612 took tray 187 from dispenser.
+Minute 617: Employee 613 took tray 186 from dispenser.
+Minute 618: Employee 614 took tray 185 from dispenser.
+Minute 619: Employee 615 took tray 184 from dispenser.
+Minute 620: Employee 616 took tray 183 from dispenser.
+Minute 621: Employee 617 took tray 182 from dispenser.
+Minute 622: Employee 618 took tray 181 from dispenser.
+Minute 623: Employee 619 took tray 180 from dispenser.
+Minute 624: Employee 620 took tray 179 from dispenser.
+Minute 625: Employee 621 took tray 178 from dispenser.
+Minute 626: Employee 622 took tray 177 from dispenser.
+Minute 627: Employee 623 took tray 176 from dispenser.
+Minute 628: Employee 624 took tray 175 from dispenser.
+Minute 629: Employee 625 took tray 174 from dispenser.
+Minute 630: Employee 626 took tray 173 from dispenser.
+Minute 631: Employee 627 took tray 172 from dispenser.
+Minute 632: Employee 628 took tray 171 from dispenser.
+Minute 633: Employee 629 took tray 170 from dispenser.
+Minute 634: Employee 630 took tray 169 from dispenser.
+Minute 635: Employee 631 took tray 168 from dispenser.
+Minute 636: Employee 632 took tray 167 from dispenser.
+Minute 637: Employee 633 took tray 166 from dispenser.
+Minute 638: Employee 634 took tray 165 from dispenser.
+Minute 639: Employee 635 took tray 164 from dispenser.
+Minute 640: Employee 636 took tray 163 from dispenser.
+Minute 641: Employee 637 took tray 162 from dispenser.
+Minute 642: Employee 638 took tray 161 from dispenser.
+Minute 643: Employee 639 took tray 160 from dispenser.
+Minute 644: Employee 640 took tray 159 from dispenser.
+Minute 645: Employee 641 took tray 158 from dispenser.
+Minute 646: Employee 642 took tray 157 from dispenser.
+Minute 647: Employee 643 took tray 156 from dispenser.
+Minute 648: Employee 644 took tray 155 from dispenser.
+Minute 649: Employee 645 took tray 154 from dispenser.
+Minute 650: Employee 646 took tray 153 from dispenser.
+Minute 651: Employee 647 took tray 152 from dispenser.
+Minute 652: Employee 648 took tray 151 from dispenser.
+Minute 653: Employee 649 took tray 150 from dispenser.
+Minute 654: Employee 650 took tray 149 from dispenser.
+Minute 655: Employee 651 took tray 148 from dispenser.
+Minute 656: Employee 652 took tray 147 from dispenser.
+Minute 657: Employee 653 took tray 146 from dispenser.
+Minute 658: Employee 654 took tray 145 from dispenser.
+Minute 659: Employee 655 took tray 144 from dispenser.
+Minute 660: Employee 656 took tray 143 from dispenser.
+Minute 661: Employee 657 took tray 142 from dispenser.
+Minute 662: Employee 658 took tray 141 from dispenser.
+Minute 663: Employee 659 took tray 140 from dispenser.
+Minute 664: Employee 660 took tray 139 from dispenser.
+Minute 665: Employee 661 took tray 138 from dispenser.
+Minute 666: Employee 662 took tray 137 from dispenser.
+Minute 667: Employee 663 took tray 136 from dispenser.
+Minute 668: Employee 664 took tray 135 from dispenser.
+Minute 669: Employee 665 took tray 134 from dispenser.
+Minute 670: Employee 666 took tray 133 from dispenser.
+Minute 671: Employee 667 took tray 132 from dispenser.
+Minute 672: Employee 668 took tray 131 from dispenser.
+Minute 673: Employee 669 took tray 130 from dispenser.
+Minute 674: Employee 670 took tray 129 from dispenser.
+Minute 675: Employee 671 took tray 128 from dispenser.
+Minute 676: Employee 672 took tray 127 from dispenser.
+Minute 677: Employee 673 took tray 126 from dispenser.
+Minute 678: Employee 674 took tray 125 from dispenser.
+Minute 679: Employee 675 took tray 124 from dispenser.
+Minute 680: Employee 676 took tray 123 from dispenser.
+Minute 681: Employee 677 took tray 122 from dispenser.
+Minute 682: Employee 678 took tray 121 from dispenser.
+Minute 683: Employee 679 took tray 120 from dispenser.
+Minute 684: Employee 680 took tray 119 from dispenser.
+Minute 685: Employee 681 took tray 118 from dispenser.
+Minute 686: Employee 682 took tray 117 from dispenser.
+Minute 687: Employee 683 took tray 116 from dispenser.
+Minute 688: Employee 684 took tray 115 from dispenser.
+Minute 689: Employee 685 took tray 114 from dispenser.
+Minute 690: Employee 686 took tray 113 from dispenser.
+Minute 691: Employee 687 took tray 112 from dispenser.
+Minute 692: Employee 688 took tray 111 from dispenser.
+Minute 693: Employee 689 took tray 110 from dispenser.
+Minute 694: Employee 690 took tray 109 from dispenser.
+Minute 695: Employee 691 took tray 108 from dispenser.
+Minute 696: Employee 692 took tray 107 from dispenser.
+Minute 697: Employee 693 took tray 106 from dispenser.
+Minute 698: Employee 694 took tray 105 from dispenser.
+Minute 699: Employee 695 took tray 104 from dispenser.
+Minute 700: Employee 696 took tray 103 from dispenser.
+Minute 701: Employee 697 took tray 102 from dispenser.
+Minute 702: Employee 698 took tray 101 from dispenser.
+Minute 703: Employee 699 took tray 100 from dispenser.
+Minute 704, 800 people entered the line
+Minute 705, -1 people entered the line
+Minute 706, -1 people entered the line
+Minute 707, -1 people entered the line
+Minute 708, -1 people entered the line
+Minute 709, -1 people entered the line
+Minute 710, -1 people entered the line
+Minute 711, -1 people entered the line
+Minute 712, -1 people entered the line
+Minute 713, -1 people entered the line
+Minute 714, -1 people entered the line
+Minute 715, -1 people entered the line
+Minute 716, -1 people entered the line
+Minute 717, -1 people entered the line
+Minute 718, -1 people entered the line
+Minute 719, -1 people entered the line
+Minute 720, -1 people entered the line
+Minute 721, -1 people entered the line
+Minute 722, -1 people entered the line
+Minute 723, -1 people entered the line
+Minute 724, -1 people entered the line
+Minute 725, -1 people entered the line
+Minute 726, -1 people entered the line
+Minute 727, -1 people entered the line
+Minute 728, -1 people entered the line
+Minute 729, -1 people entered the line
+Minute 730, -1 people entered the line
+Minute 731, -1 people entered the line
+Minute 732, -1 people entered the line
+Minute 733, -1 people entered the line
+Minute 734, -1 people entered the line
+Minute 735, -1 people entered the line
+Minute 736, -1 people entered the line
+Minute 737, -1 people entered the line
+Minute 738, -1 people entered the line
+Minute 739, -1 people entered the line
+Minute 740, -1 people entered the line
+Minute 741, -1 people entered the line
+Minute 742, -1 people entered the line
+Minute 743, -1 people entered the line
+Minute 744, -1 people entered the line
+Minute 745, -1 people entered the line
+Minute 746, -1 people entered the line
+Minute 747, -1 people entered the line
+Minute 748, -1 people entered the line
+Minute 749, -1 people entered the line
+Minute 750, -1 people entered the line
+Minute 751, -1 people entered the line
+Minute 752, -1 people entered the line
+Minute 753, -1 people entered the line
+Minute 754, -1 people entered the line
+Minute 755, -1 people entered the line
+Minute 756, -1 people entered the line
+Minute 757, -1 people entered the line
+Minute 758, -1 people entered the line
+Minute 759, -1 people entered the line
+Minute 760, -1 people entered the line
+Minute 761, -1 people entered the line
+Minute 762, -1 people entered the line
+Minute 763, -1 people entered the line
+Minute 764, -1 people entered the line
+Minute 765, -1 people entered the line
+Minute 766, -1 people entered the line
+Minute 767, -1 people entered the line
+Minute 768, -1 people entered the line
+Minute 769, -1 people entered the line
+Minute 770, -1 people entered the line
+Minute 771, -1 people entered the line
+Minute 772, -1 people entered the line
+Minute 773, -1 people entered the line
+Minute 774, -1 people entered the line
+Minute 775, -1 people entered the line
+Minute 776, -1 people entered the line
+Minute 777, -1 people entered the line
+Minute 778, -1 people entered the line
+Minute 779, -1 people entered the line
+Minute 780, -1 people entered the line
+Minute 781, -1 people entered the line
+Minute 782, -1 people entered the line
+Minute 783, -1 people entered the line
+Minute 784, -1 people entered the line
+Minute 785, -1 people entered the line
+Minute 786, -1 people entered the line
+Minute 787, -1 people entered the line
+Minute 788, -1 people entered the line
+Minute 789, -1 people entered the line
+Minute 790, -1 people entered the line
+Minute 791, -1 people entered the line
+Minute 792, -1 people entered the line
+Minute 793, -1 people entered the line
+Minute 794, -1 people entered the line
+Minute 795, -1 people entered the line
+Minute 796, -1 people entered the line
+Minute 797, -1 people entered the line
+Minute 798, -1 people entered the line
+Minute 799, -1 people entered the line
+Minute 800, -1 people entered the line
+Minute 801, -1 people entered the line
+Minute 802, -1 people entered the line
+Minute 803, -1 people entered the line
+Minute 804: Employee 38 took tray 99 from dispenser.
+Minute 805: Employee 179 took tray 98 from dispenser.
+Minute 806: Employee 190 took tray 97 from dispenser.
+Minute 807: Employee 657 took tray 96 from dispenser.
+Minute 808: Employee 958 took tray 95 from dispenser.
+Minute 809: Employee 191 took tray 94 from dispenser.
+Minute 810: Employee 815 took tray 93 from dispenser.
+Minute 811: Employee 888 took tray 92 from dispenser.
+Minute 812: Employee 156 took tray 91 from dispenser.
+Minute 813: Employee 511 took tray 90 from dispenser.
+Minute 814: Employee 202 took tray 89 from dispenser.
+Minute 815: Employee 634 took tray 88 from dispenser.
+Minute 816: Employee 272 took tray 87 from dispenser.
+Minute 817: Employee 55 took tray 86 from dispenser.
+Minute 818: Employee 328 took tray 85 from dispenser.
+Minute 819: Employee 646 took tray 84 from dispenser.
+Minute 820: Employee 362 took tray 83 from dispenser.
+Minute 821: Employee 886 took tray 82 from dispenser.
+Minute 822: Employee 875 took tray 81 from dispenser.
+Minute 823: Employee 433 took tray 80 from dispenser.
+Minute 824: Employee 869 took tray 79 from dispenser.
+Minute 825: Employee 142 took tray 78 from dispenser.
+Minute 826: Employee 844 took tray 77 from dispenser.
+Minute 827: Employee 416 took tray 76 from dispenser.
+Minute 828: Employee 881 took tray 75 from dispenser.
+Minute 829: Employee 998 took tray 74 from dispenser.
+Minute 830: Employee 322 took tray 73 from dispenser.
+Minute 831: Employee 651 took tray 72 from dispenser.
+Minute 832: Employee 21 took tray 71 from dispenser.
+Minute 833: Employee 699 took tray 70 from dispenser.
+Minute 834: Employee 557 took tray 69 from dispenser.
+Minute 835: Employee 476 took tray 68 from dispenser.
+Minute 836: Employee 892 took tray 67 from dispenser.
+Minute 837: Employee 389 took tray 66 from dispenser.
+Minute 838: Employee 75 took tray 65 from dispenser.
+Minute 839: Employee 712 took tray 64 from dispenser.
+Minute 840: Employee 600 took tray 63 from dispenser.
+Minute 841: Employee 510 took tray 62 from dispenser.
+Minute 842: Employee 3 took tray 61 from dispenser.
+Minute 843: Employee 869 took tray 60 from dispenser.
+Minute 844: Employee 861 took tray 59 from dispenser.
+Minute 845: Employee 688 took tray 58 from dispenser.
+Minute 846: Employee 401 took tray 57 from dispenser.
+Minute 847: Employee 789 took tray 56 from dispenser.
+Minute 848: Employee 255 took tray 55 from dispenser.
+Minute 849: Employee 423 took tray 54 from dispenser.
+Minute 850: Employee 2 took tray 53 from dispenser.
+Minute 851: Employee 585 took tray 52 from dispenser.
+Minute 852: Employee 182 took tray 51 from dispenser.
+Minute 853: Employee 285 took tray 50 from dispenser.
+Minute 854: Employee 88 took tray 49 from dispenser.
+Minute 855: Employee 426 took tray 48 from dispenser.
+Minute 856: Employee 617 took tray 47 from dispenser.
+Minute 857: Employee 757 took tray 46 from dispenser.
+Minute 858: Employee 832 took tray 45 from dispenser.
+Minute 859: Employee 932 took tray 44 from dispenser.
+Minute 860: Employee 169 took tray 43 from dispenser.
+Minute 861: Employee 154 took tray 42 from dispenser.
+Minute 862: Employee 721 took tray 41 from dispenser.
+Minute 863: Employee 189 took tray 40 from dispenser.
+Minute 864: Employee 976 took tray 39 from dispenser.
+Minute 865: Employee 329 took tray 38 from dispenser.
+Minute 866: Employee 368 took tray 37 from dispenser.
+Minute 867: Employee 692 took tray 36 from dispenser.
+Minute 868: Employee 425 took tray 35 from dispenser.
+Minute 869: Employee 555 took tray 34 from dispenser.
+Minute 870: Employee 434 took tray 33 from dispenser.
+Minute 871: Employee 549 took tray 32 from dispenser.
+Minute 872: Employee 441 took tray 31 from dispenser.
+Minute 873: Employee 512 took tray 30 from dispenser.
+Minute 874: Employee 145 took tray 29 from dispenser.
+Minute 875: Employee 60 took tray 28 from dispenser.
+Minute 876: Employee 718 took tray 27 from dispenser.
+Minute 877: Employee 753 took tray 26 from dispenser.
+Minute 878: Employee 139 took tray 25 from dispenser.
+Minute 879: Employee 423 took tray 24 from dispenser.
+Minute 880: Employee 279 took tray 23 from dispenser.
+Minute 881: Employee 996 took tray 22 from dispenser.
+Minute 882: Employee 687 took tray 21 from dispenser.
+Minute 883: Employee 529 took tray 20 from dispenser.
+Minute 884: Employee 549 took tray 19 from dispenser.
+Minute 885: Employee 437 took tray 18 from dispenser.
+Minute 886: Employee 866 took tray 17 from dispenser.
+Minute 887: Employee 949 took tray 16 from dispenser.
+Minute 888: Employee 193 took tray 15 from dispenser.
+Minute 889: Employee 195 took tray 14 from dispenser.
+Minute 890: Employee 297 took tray 13 from dispenser.
+Minute 891: Employee 416 took tray 12 from dispenser.
+Minute 892: Employee 286 took tray 11 from dispenser.
+Minute 893: Employee 105 took tray 10 from dispenser.
+Minute 894: Employee 488 took tray 9 from dispenser.
+Minute 895: Employee 282 took tray 8 from dispenser.
+Minute 896: Employee 455 took tray 7 from dispenser.
+Minute 897: Employee 734 took tray 6 from dispenser.
+Minute 898: Employee 114 took tray 5 from dispenser.
+Minute 899: Employee 701 took tray 4 from dispenser.
+Minute 900: Employee 316 took tray 3 from dispenser.
+Minute 901: Employee 671 took tray 2 from dispenser.
+Minute 902: Employee 786 took tray 1 from dispenser.
+Minute 903: Employee 263 took tray 0 from dispenser.
+Minute 904: The dispenser is empty! Such incompetence must be punished!
